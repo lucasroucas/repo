@@ -1,0 +1,17 @@
+Package: clean-uber
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ChatGPT
+Description: Script para apagar dados do Uber Driver
+Filename: debs/clean-uber.deb
+Size: 1024
+MD5sum: d41d8cd98f00b204e9800998ecf8427e
+
+Package: clean-uber-icon
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: ChatGPT
+Description: Ícone alternativo para Uber Driver
+Filename: debs/clean-uber-icon.deb
+Size: 1024
+MD5sum: d41d8cd98f00b204e9800998ecf8427e

@@ -1,0 +1,7 @@
+Origin: Clean Uber Repo
+Label: Clean Uber Tools
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: Repo para limpeza do app Uber Driver no iOS com Jailbreak
