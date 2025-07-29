@@ -1,7 +1,8 @@
-Origin: Clean Uber Repo
-Label: Clean Uber Tools
+Origin: mariobross
+Label: mariobross
 Suite: stable
 Version: 1.0
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Repo para limpeza do app Uber Driver no iOS com Jailbreak
+Description: Repositório do tweak que limpa dados da Uber
